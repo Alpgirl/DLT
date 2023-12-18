@@ -29,4 +29,4 @@ Before start you need to download all packages from the file `requirements.txt` 
 
 1. Before start one need to download all packages from the file `requirements.txt` before executing the code.
 2. Run the main.ipynb using dataset from `DLT\data\` or create your own dataset.
-3. 
+3. Analyse and enjoy the result.
