@@ -1,2 +1,6 @@
 pytransform3d
 ipympl
+numpy
+scipy
+typing
+matplotlib
